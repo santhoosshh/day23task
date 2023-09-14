@@ -18,7 +18,7 @@ function App() {
             <h6 className="card-price text-center">$0<span class="period">/month</span></h6>
             <hr/>
             <ul className="fa-ul">
-              <li><span class="fa-li"><FontAwesomeIcon icon="faCheck"/>Single User</span></li>
+              <li><span class="fa-li"><FontAwesomeIcon icon="faCheck"/>Single Users</span></li>
               <li><span class="fa-li"><FontAwesomeIcon icon="faCheck"/>5GB Storage</span></li>
               <li><span class="fa-li"><FontAwesomeIcon icon="faCheck"/>Unlimited Public Projects</span></li>
               <li><span class="fa-li"><FontAwesomeIcon icon="faCheck"/>Community Access</span></li>
